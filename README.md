@@ -1,4 +1,4 @@
-# rag-mind
+# docbrain
 
 A RAG-powered knowledge engine that lets users upload documents and get accurate, citation-backed answers through an intelligent AI chat interface.
 
@@ -118,3 +118,4 @@ Build (see Build & production), ensure your environment variables are set, and r
 - DB & ORM: `server/db.ts`, `shared/schema.ts`
 - Client app: `client/src/` — main UI and pages
 - Build pipeline: `script/build.ts` and `package.json` scripts
+
